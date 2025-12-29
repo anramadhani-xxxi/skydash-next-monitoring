@@ -64,7 +64,7 @@ npm install
 
 3.  **Setup the database:**
 * Create a new MySQL database (e.g., `skydash_net`).
-* Execute the SQL statements from the [Database Schema](#-database-schema) section below to create all the necessary tables.
+* Execute the SQL statements from the [Database Schema]([#-database-schema](https://github.com/skydashnet/skydash-next-monitoring/wiki/5.-Database-Schema)) section below to create all the necessary tables.
 
 4.  **Configure environment variables:**
 * Create a `.env` file in the `backend` directory by copying `.env.example` (if available) or creating a new one.
